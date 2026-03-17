@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Oliver & Dzifa Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:oliver-dzifa-wedding-20260620@olidzi26
+DTSTAMP:20250317T000000
+DTSTART:20260620T120000
+DTEND:20260620T184500
+SUMMARY:Oliver & Dzifa Wedding
+LOCATION:St. Thomas Aquinas Catholic Church\, University of Ghana - Legon; Parish Hall - Christ Church (Anglican Church)\, University of Ghana - Legon
+DESCRIPTION:Wedding ceremony at 12:00 PM at St. Thomas Aquinas Catholic Church\, University of Ghana - Legon. Reception to follow at the Parish Hall - Christ Church (Anglican Church)\, University of Ghana - Legon until 6:45 PM.
+END:VEVENT
+END:VCALENDAR
+
