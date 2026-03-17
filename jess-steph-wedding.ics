@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//JesSteph Wedding//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:jess-steph-wedding-20260312@jessteph
+DTSTAMP:20250225T000000
+DTSTART:20260312T140000
+DTEND:20260313T000000
+SUMMARY:Jestyl & Stephanie Wedding
+LOCATION:Our Lady Star of The Sea Catholic Church\, Dansoman\, Last Stop; Idrowhyt Event Center\, Filbert Loop\, Dansoman
+DESCRIPTION:Ceremony at 2:00 PM at Our Lady Star of The Sea Catholic Church\, Dansoman\, Last Stop. Cocktail reception at 5:00 PM at Idrowhyt Event Center\, Filbert Loop\, Dansoman.
+END:VEVENT
+END:VCALENDAR
+
